@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jigarvyasidea.github.io/csb-x1okfm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://jigarvyasidea.github.io/csb-x1okfm/static/js/main.a6291ebd.chunk.js",
+    "main.js.map": "https://jigarvyasidea.github.io/csb-x1okfm/static/js/main.a6291ebd.chunk.js.map",
+    "runtime-main.js": "https://jigarvyasidea.github.io/csb-x1okfm/static/js/runtime-main.956d4525.js",
+    "runtime-main.js.map": "https://jigarvyasidea.github.io/csb-x1okfm/static/js/runtime-main.956d4525.js.map",
+    "static/js/2.b21dc211.chunk.js": "https://jigarvyasidea.github.io/csb-x1okfm/static/js/2.b21dc211.chunk.js",
+    "static/js/2.b21dc211.chunk.js.map": "https://jigarvyasidea.github.io/csb-x1okfm/static/js/2.b21dc211.chunk.js.map",
+    "index.html": "https://jigarvyasidea.github.io/csb-x1okfm/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://jigarvyasidea.github.io/csb-x1okfm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b21dc211.chunk.js.LICENSE.txt": "https://jigarvyasidea.github.io/csb-x1okfm/static/js/2.b21dc211.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.956d4525.js",
+    "static/js/2.b21dc211.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a6291ebd.chunk.js"
+  ]
+}
